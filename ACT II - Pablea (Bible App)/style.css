@@ -1,0 +1,98 @@
+body {
+	background-image: url("images/bg.jpg"); 
+	padding-top:20px;
+}
+
+h1	{
+	padding: 10px;
+	text-align: center;
+	font-family: showcard gothic;
+	font-size: 90px;
+	color: #FFCC33;
+	background-image: url("images/header.jpg");
+}
+
+#caaelbap {
+	font-size: 90px;
+}
+
+#tAb {
+	text-align: left;
+	padding: 20px;
+}
+
+#ck {
+	font-size: 70px;
+}
+
+dt {
+	font-family: showcard gothic;
+	font-size: 40px;
+	color: #FFCC66;
+}
+
+dd {
+	font-size: 20px;
+	padding: 10px;
+	background-image: url("images/dd.jpg");
+}
+
+h2	{
+	font-size: 40px;
+	font-family: copperplate gothic bold;
+	text-align: center;
+	color: #FFCC33;
+}
+
+h3 {
+	font-family: aharoni;
+	font-size: 30px;
+	color: #FFCC33;
+}
+
+#bodyContent {
+	background-image: url("images/bodyContent.jpg");
+	padding: 5px;
+	padding-left: 15px;
+	font-size: 18px;
+}
+
+footer {
+	background-image: url("images/footer.jpg");
+	padding: 15px;
+	text-align: center;
+	font-size: 17px;
+	font-family: cooper black;
+	color: black;
+}
+
+header {
+	background-image: url("images/header.jpg");
+	font-family: showcard gothic;
+	font-size: 100px;
+	text-align: center;
+	color: #FFCC66;
+}
+
+#nav {
+	font-family: showcard gothic;
+	font-size: 18px;
+	text-align: center;
+	background-color: #FFCC66;	
+}
+
+#indexButton {
+	font-size: 30px;
+	font-family: showcard gothic;
+}
+
+td {
+	font-family: showcard gothic;
+	font-size: 18px;
+	background-color: #FFCC66;
+}
+
+ #button {
+	font-family: cooper black;
+	font-size: 20px;
+}
